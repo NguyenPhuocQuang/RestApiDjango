@@ -12,8 +12,12 @@ HOW TO RUN PROJECT
     
     4. python  manage.py migrate
 
-    5 .Run project 
+    5. Run project 
         python manage.py runserver
+
+    6. Run TestCase
+      python manage.py test todos
+
 
 
 
